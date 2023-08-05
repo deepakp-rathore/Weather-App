@@ -1,4 +1,4 @@
-# Personal Portfolio
+# Weather Application
 
 A Simple Weather Application which is made by Django which uses a API to fetch data.
 
